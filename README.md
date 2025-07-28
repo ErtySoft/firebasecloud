@@ -1,5 +1,4 @@
 # firebasecloud
 This is the README (important stuff) of the file.
 FirebaseCloud is just one of my Google Firebase Cloud Apps or something...
-PROBLEM: YOU CAN'T F*****G MODIFY ANYTHING OK?
-That was the end i think...
+PROBLEM: YOU CAN'T MODIFY ANYTHING
